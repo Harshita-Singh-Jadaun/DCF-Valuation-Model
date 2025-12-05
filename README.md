@@ -6,7 +6,7 @@ The model is suitable for:
 - Finance students
 - Equity research & investment roles
 - Portfolio / resume showcase
-
+  
 ---
 
 ## 🔍 Project Overview
